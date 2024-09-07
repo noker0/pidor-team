@@ -9,17 +9,12 @@ function Aps() {
       <>
 <nav>
 
-<div className="gla">
-            <p>Make your dream business goal come true</p>
-        </div>
-        <div className="gla2">
-            <p>when you need us for improve your business,then come with us to help your business have reach it, you just sit and feel that goal</p>
-        </div>
 
 
-<img src={logs} alt="" />
-<img src={loge} alt="" />
-<img src={logr} alt="" />
+
+<img src={logs} className="img" alt="" />
+<img src={loge} className="img" alt="" />
+<img src={logr} className="img" alt="" />
 
 
 </nav>

@@ -5,29 +5,19 @@
   
  
   
-  .nav {
+  .nav1 {
     display: flex;
     justify-content: space-between;
     width: 60%;
   }
-  
-  .logs {
-    width: 500px; 
-    height: 500px;
+
+  .img{
+    width: 250px; 
+    height: 250px;
     object-fit: cover;
     margin: 0 10px;
-  }
-  .loge{
-    width: 500px; 
-    height: 500px;
-    object-fit: cover;
-    margin: 0 10px;
-  }
-  
-  .logr{
-    width: 500px; 
-    height: 500px;
-    object-fit: cover;
-    margin: 0 10px;
-  }
+    margin-top: 10px;
+       text-align: center;
+       display: flex;
+}
   
