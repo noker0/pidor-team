@@ -1,9 +1,42 @@
 button{
-    color: white;
-    border: 2px solid white;
+    color: black;
+    background: white;
     border-radius: 30px;
     height: 60px;
     width: 200px;
     font-size: 20px;
     cursor: pointer;
+}
+.glav,.glav2,.glav3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 50px;
+}
+.glav p{
+    font-weight: bold;
+    font-size: 65px;
+    max-width: 45%;
+    text-align: center;
+}
+.glav2 p{
+    color: gray;
+    font-size: 20px;
+    max-width: 44.5%;
+    text-align: center;
+} 
+.retel{
+    width: 700px;
+    height: 500px;
+
+}
+.main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.doll{
+    background: rgb(16, 16, 16);
+    position: absolute;
+    z-index: 2;
 }

@@ -1,19 +1,19 @@
-nav{
+.nav{
     display: flex;
     height: 100px;
     align-items: center;
     justify-content: space-between;
     margin: 50px;
 }
-ul{
+.ul{
     display: flex;
     gap: 50px;
     align-items: center;
 }
-li{
+.li{
     text-decoration: none;
 }
-a{
+.a{
     color:gray;
     text-decoration: none;
     font-size: 20px;
@@ -21,11 +21,11 @@ a{
 .aa{
     color: white;
 }
-img{
+.img{
     width: 150px;
     height: 50px;
 }
-button{
+.button{
     color: white;
     border: 2px solid white;
     border-radius: 30px;
