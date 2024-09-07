@@ -1,8 +1,8 @@
 import React from "react"
 import './partfolio.css'
 import logs from '../assets/Rectangle 834.png'
-import logs from '../assets/Rectangle 832.png'
-import logs from '../assets/Rectangle 835.png'
+// import logs from '../assets/Rectangle 832.png'
+// import logs from '../assets/Rectangle 835.png'
 function Aps() {
 
     return (
