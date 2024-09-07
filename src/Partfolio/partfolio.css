@@ -3,27 +3,28 @@
     font-family: Arial, sans-serif;
   }
   
-  .App-header {
-    background-color: #282c34;
-    padding: 20px;
-    color: white;
-  }
+ 
   
-  .App-main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: calc(100vh - 80px); /* Adjust height based on header size */
-    background-color: #f5f5f5;
-  }
-  
-  .photo-container {
+  .nav {
     display: flex;
     justify-content: space-between;
     width: 60%;
   }
   
-  .photo {
+  .logs {
+    width: 100px; /* Adjust size as needed */
+    height: 100px;
+    object-fit: cover;
+    margin: 0 10px;
+  }
+  .loge{
+    width: 100px; /* Adjust size as needed */
+    height: 100px;
+    object-fit: cover;
+    margin: 0 10px;
+  }
+  
+  .logr{
     width: 100px; /* Adjust size as needed */
     height: 100px;
     object-fit: cover;
