@@ -13,7 +13,7 @@ const Main = () => {
             <p>when you need us for improve your business,then come with us to help your business have reach it, you just sit and feel that goal</p>
         </div>
         <div className="glav3">
-          <button>Start Project</button>
+          <button className='button'>Start Project</button>
         </div>
         <div className="main">
             <div className="doll">

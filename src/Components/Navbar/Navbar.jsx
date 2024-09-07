@@ -5,15 +5,15 @@ import logo from '../../assets/group 3.png'
 const Navbar = () => {
   return (
     <>
-        <nav className='nav'>
-                <img className='img' src={logo} alt="" />
-            <ul className='ul'>
-                <li className='li'><a className='aa' href="">Home</a></li>
-                <li className='li'><a className='a' href="">About</a></li>
-                <li className='li'><a className='a' href="">Services</a></li>
-                <li className='li'><a className='a' href="">Projects</a></li>
+        <nav className='navl'>
+                <img className='imgl' src={logo} alt="" />
+            <ul className='ull'>
+                <li className='lil'><a className='aa' href="">Home</a></li>
+                <li className='lil'><a className='al' href="">About</a></li>
+                <li className='lil'><a className='al' href="">Services</a></li>
+                <li className='lil'><a className='al' href="">Projects</a></li>
             </ul>
-            <button>Contact us</button>
+            <button className='buttonl'>Contact us</button>
         </nav>
     </>
   )
