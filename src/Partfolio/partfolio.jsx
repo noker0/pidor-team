@@ -12,9 +12,9 @@ function Aps() {
 
 
 
-<img src={logs} alt="" />
-<img src={loge} alt="" />
-<img src={logr} alt="" />
+<img src={logs} className="img" alt="" />
+<img src={loge} className="img" alt="" />
+<img src={logr} className="img" alt="" />
 
 
 </nav>
