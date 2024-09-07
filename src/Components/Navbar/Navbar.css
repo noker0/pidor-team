@@ -1,19 +1,19 @@
-.nav{
+.navl{
     display: flex;
     height: 100px;
     align-items: center;
     justify-content: space-between;
     margin: 50px;
 }
-.ul{
+.ull{
     display: flex;
     gap: 50px;
     align-items: center;
 }
-.li{
+.lil{
     text-decoration: none;
 }
-.a{
+.al{
     color:gray;
     text-decoration: none;
     font-size: 20px;
@@ -21,11 +21,11 @@
 .aa{
     color: white;
 }
-.img{
+.imgl{
     width: 150px;
     height: 50px;
 }
-.button{
+.buttonl{
     color: white;
     border: 2px solid white;
     border-radius: 30px;
