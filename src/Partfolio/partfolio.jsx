@@ -1,25 +1,24 @@
 import React from "react"
 import './partfolio.css'
-
-
+import logs from '../assets/Rectangle 834.png'
+import logs from '../assets/Rectangle 832.png'
+import logs from '../assets/Rectangle 835.png'
 function Aps() {
 
     return (
       <>
-    <div className="App">
-      <header className="App-header">
-        <h1>Мое портфолио</h1>
-      </header>
-      <main className="App-main">
-        <div className="photo-container">
-          <img src="" alt="Фото 1" className="photo" />
-          <img src="https://via.placeholder.com/300" alt="Фото 2" className="photo" />
-          <img src="https://via.placeholder.com/300" alt="Фото 3" className="photo" />
-        </div>
-      </main>
-    </div>
+<nav>
+<img src={logs} alt="" />
+<ul>
+    <li><a href="Rectangle 834.png"></a></li>
+    <li><a href="Rectangle 832.png"></a></li>
+    <li><a href="Rectangle 835.png"></a></li>
+</ul>
 
 
+
+
+</nav>
       </>
     )
   }
