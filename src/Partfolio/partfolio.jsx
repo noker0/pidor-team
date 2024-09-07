@@ -1,4 +1,3 @@
-import 
 
 
 
@@ -7,7 +6,7 @@ function App() {
 
     return (
       <>
-       
+       salom
       </>
     )
   }
